@@ -1,5 +1,0 @@
-% hello.tex - Our first LaTeX example!
-\documentclass{article}
-\begin{document}
-Hello World! Iteration 2
-\end{document}
