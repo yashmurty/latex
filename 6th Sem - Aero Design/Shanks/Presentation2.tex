@@ -1,0 +1,74 @@
+\documentclass{beamer}
+
+% Select Theme %
+\usetheme{Marburg}
+
+
+% Include relevant packages %
+\usepackage{graphics}
+\usepackage{pgf}
+%\usepackage{fancybox}
+\usepackage{multirow}
+\usepackage{alltt}
+\usepackage{movie15}
+
+% Define new commands %
+\newcommand{\tab}{\hspace*{2em}}
+
+\title{}
+\author{Shashank S}
+\institute{Indian Institute of Technology Madras}
+
+\AtBeginSection[]
+{
+	\begin{frame}
+	\small{
+	\tableofcontents[currentsection]
+	}
+	\end{frame}
+}
+
+\begin{document}
+\small{\frame{\titlepage}}
+\frame{\tableofcontents}
+
+\section{Objectives}
+\begin{frame}
+\frametitle{Objectives}
+\begin{itemize}
+	\item Model landing patterns of aircrafts in airport airspace
+    \item Optimize use if runway through efficient landing stratergies
+\end{itemize}
+\end{frame}
+
+\section{Framerwork}
+\begin{frame}
+\frametitle{Framework}
+Aircraft properties, runway properties and loiter management treated as separate blocks, through the following framework
+\begin{itemize}
+	\item Traffic generator: Decides if an aircraft is entering the airspace based on different traffic functions
+	\item Aircraft manager: Tracks aircraft data: position,velocity,fuel,type etc
+	\item Runway manager: Keep runway state; runway scheduling policies
+	\item Loiter manager: Implement a loiter policy
+	\item Landing decision manager: Decide which airplane to land - some sort of weighted function of airplane data
+\end{itemize}
+\end{frame}
+
+\section{Flow of control}
+\begin{frame}
+\frametitle{Control flow}
+The program will be a time based simulation. At every time step, the system is updated
+\begin{itemize
+\item Traffic generator enters aircraft into airspace
+\item Check runway state - runway manager
+\item If runway is free, land the airplane - use Landing decision manager
+\item If runway is full, assign a loiter policy - use Loiter manager
+\item Associate aircraft with loiter manager to update grid 
+\item Use Landing decision manager to land "available" aircraft
+\item Terminate object once landed
+\end{itemize}
+\end{frame}
+
+
+\end{document}
+

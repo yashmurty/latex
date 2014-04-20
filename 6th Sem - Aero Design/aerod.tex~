@@ -1,0 +1,120 @@
+\documentclass{beamer}
+
+\title[] % (optional, only for long titles)
+{Aero Design}
+\subtitle{Final Presentation - Team 10}
+\author[] % (optional, for multiple authors)
+{Yash Murty \\ Shank The Tank \\ Rohith Grover \\ Ashok Kumar \\ Ravi Prakash}
+\institute[IIT Madras] % (optional)
+{
+  Department of Aerospace Engineering\\
+  Indian Institute of Technology\\
+  Madras
+}
+\date[] % (optional)
+{}
+\subject{Final Presentation}
+
+\usetheme{Madrid}
+\usecolortheme{whale}
+
+  \begin{frame}
+    \frametitle{Table of Contents}
+    \tableofcontents[currentsection]
+  \end{frame}
+
+
+\begin{document}
+	\frame{\titlepage}
+	
+	\section{Section 1}	
+	\begin{frame}
+	\frametitle{Some background}
+		We start our discussion with some concepts.
+	\pause
+		The first concept we introduce originates with Erd\H os.
+	\end{frame}	
+	
+	\section{Section 2}
+	\begin{frame}
+	\frametitle{`Hidden higher-order concepts?'}
+	\begin{itemize}[<+->]
+	\item The truths of arithmetic which are independent of PA in some 
+	sense themselves `{contain} essentially {\color{blue}{hidden higher-order}},
+	 or infinitary, concepts'???
+	\item `Truths in the language of arithmetic which \ldots
+	\item	That suggests stronger version of Isaacson's thesis. 
+	\end{itemize}
+	\end{frame}
+	
+	\section{Section 3}
+	\begin{frame}{Example of columns 1}
+    \begin{columns}[c] % the "c" option specifies center vertical alignment
+    \column{.5\textwidth} % column designated by a command
+     Contents of the first column
+    \column{.5\textwidth}
+     Contents split \\ into two lines
+    \end{columns}
+	\end{frame}
+ 
+	\section{Section 4}
+	\begin{frame}{Example of columns 2}
+     \begin{columns}[t] % contents are top vertically aligned
+     \begin{column}[T]{5cm} % each column can also be its own environment
+     Contents of first column \\ split into two lines
+     \end{column}
+     \begin{column}[T]{5cm} % alternative top-align that's better for graphics
+          \includegraphics[height=3cm]{graphic.png}
+     \end{column}
+     \end{columns}
+	\end{frame}
+	
+	\section{Section 5}
+	\begin{frame}
+ 
+   \begin{block}{This is a Block}
+      This is important information
+   \end{block}
+ 
+   \begin{alertblock}{This is an Alert block}
+   This is an important alert
+   \end{alertblock}
+ 
+   \begin{exampleblock}{This is an Example block}
+   This is an example 
+   \end{exampleblock}
+ 
+\end{frame}
+
+
+	\section{Section 6}
+  \begin{frame}
+    \frametitle{This is the first slide}
+    %Content goes here
+	\begin{tabular}{lcccc}
+ Class & A & B & C & D \\\hline
+ X     & 1 & 2 & 3 & 4 \pause\\
+ Y     & 3 & 4 & 5 & 6 \pause\\
+ Z     &5&6&7&8
+\end{tabular}
+		
+  \end{frame}
+
+	\section{Section 7}
+  \begin{frame}
+    \frametitle{This is the second slide}
+    \framesubtitle{A bit more information about this}
+    %More content goes here
+
+	\begin{columns}
+\begin{column}[l]{5cm}
+First column
+\end{column}
+\begin{column}[r]{5cm}
+Second column
+\end{column}
+\end{columns}
+
+  \end{frame}
+% etc
+\end{document}
