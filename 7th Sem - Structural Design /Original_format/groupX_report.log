@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.9)  20 SEP 2014 00:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.9)  19 SEP 2014 23:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -230,7 +230,7 @@ Package epstopdf Info: Source file: <iitm.eps>
 (epstopdf)                    date: 2014-09-19 23:06:36
 (epstopdf)                    size: 627003 bytes
 (epstopdf)             Output file: <iitm-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-09-19 23:06:36
+(epstopdf)                    date: 2014-09-19 23:12:02
 (epstopdf)                    size: 107332 bytes
 (epstopdf)             Command: <repstopdf --outfile=iitm-eps-converted-to.pdf 
 iitm.eps>
@@ -313,107 +313,171 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 (./chapter1.tex
 CHAPTER 1.
-<figures/missionreq.jpg, id=55, 834.11626pt x 263.48438pt>
-File: figures/missionreq.jpg Graphic file (type jpg)
-
-<use figures/missionreq.jpg>
-Package pdftex.def Info: figures/missionreq.jpg used on input line 15.
-(pdftex.def)             Requested size: 325.215pt x 102.73033pt.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
-
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
- [1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
 
-
- <./figures/missionreq.jpg>]
-Overfull \hbox (4.67105pt too wide) in paragraph at lines 36--36
+Overfull \hbox (4.67105pt too wide) in paragraph at lines 20--20
 []\OT1/cmr/bx/n/12 SUMMARY OF WORK DONE AS PART OF THE AERO-DY-NAMIC
  []
 
 
-Overfull \hbox (37.7776pt too wide) in paragraph at lines 46--55
+Overfull \hbox (37.7776pt too wide) in paragraph at lines 32--41
  [] 
  []
 
+[1
 
-Package natbib Warning: Citation `1' on page 2 undefined on input line 64.
+
+]
+
+Package natbib Warning: Citation `Raymer_book' on page 2 undefined on input lin
+e 47.
+
+
+Package natbib Warning: Citation `Joel_paper' on page 2 undefined on input line
+ 48.
+
+
+Package natbib Warning: Citation `random_book' on page 2 undefined on input lin
+e 49.
 
 [2]
+Package epstopdf Info: Source file: <figures/side_view.eps>
+(epstopdf)                    date: 2014-09-19 23:06:36
+(epstopdf)                    size: 108131 bytes
+(epstopdf)             Output file: <figures/side_view-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-19 23:12:03
+(epstopdf)                    size: 18387 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/side_view-eps-conv
+erted-to.pdf figures/side_view.eps>
+(epstopdf)             \includegraphics on input line 73.
+Package epstopdf Info: Output file is already uptodate.
+ <figures/side_view-eps-converted-to.pdf, id=64, 327.2225pt x 141.52875pt>
+File: figures/side_view-eps-converted-to.pdf Graphic file (type pdf)
 
-Package natbib Warning: Citation `2' on page 3 undefined on input line 65.
+<use figures/side_view-eps-converted-to.pdf>
+Package pdftex.def Info: figures/side_view-eps-converted-to.pdf used on input l
+ine 73.
+(pdftex.def)             Requested size: 217.4502pt x 94.05064pt.
 
-<figures/side.png, id=64, 458.71375pt x 301.125pt>
-File: figures/side.png Graphic file (type png)
- <use figures/side.png>
-Package pdftex.def Info: figures/side.png used on input line 75.
-(pdftex.def)             Requested size: 217.4502pt x 142.74638pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--78
-
- []
-
-<figures/front.png, id=65, 499.8675pt x 203.76125pt>
-File: figures/front.png Graphic file (type png)
- <use figures/front.png>
-Package pdftex.def Info: figures/front.png used on input line 82.
-(pdftex.def)             Requested size: 173.95749pt x 70.9102pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--85
-
- []
-
-<figures/top.png, id=66, 478.78876pt x 491.8375pt>
-File: figures/top.png Graphic file (type png)
- <use figures/top.png>
-Package pdftex.def Info: figures/top.png used on input line 90.
-(pdftex.def)             Requested size: 260.94289pt x 268.05737pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--93
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
  []
 
-<figures/3D.png, id=67, 421.575pt x 307.1475pt>
-File: figures/3D.png Graphic file (type png)
- <use figures/3D.png>
-Package pdftex.def Info: figures/3D.png used on input line 97.
-(pdftex.def)             Requested size: 173.95749pt x 126.74208pt.
+Package epstopdf Info: Source file: <figures/front_view.eps>
+(epstopdf)                    date: 2014-09-19 23:06:36
+(epstopdf)                    size: 95886 bytes
+(epstopdf)             Output file: <figures/front_view-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-19 23:12:03
+(epstopdf)                    size: 10597 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/front_view-eps-con
+verted-to.pdf figures/front_view.eps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+<figures/front_view-eps-converted-to.pdf, id=65, 263.98625pt x 155.58125pt>
+File: figures/front_view-eps-converted-to.pdf Graphic file (type pdf)
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--100
+<use figures/front_view-eps-converted-to.pdf>
+Package pdftex.def Info: figures/front_view-eps-converted-to.pdf used on input 
+line 80.
+(pdftex.def)             Requested size: 173.95749pt x 102.52249pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
 
  []
 
-<figures/Vn_Dia.jpg, id=68, 616.55344pt x 346.29375pt>
-File: figures/Vn_Dia.jpg Graphic file (type jpg)
+Package epstopdf Info: Source file: <figures/top_view.eps>
+(epstopdf)                    date: 2014-09-19 23:06:36
+(epstopdf)                    size: 107567 bytes
+(epstopdf)             Output file: <figures/top_view-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-19 23:12:03
+(epstopdf)                    size: 14745 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/top_view-eps-conve
+rted-to.pdf figures/top_view.eps>
+(epstopdf)             \includegraphics on input line 88.
+Package epstopdf Info: Output file is already uptodate.
+<figures/top_view-eps-converted-to.pdf, id=66, 322.20375pt x 143.53625pt>
+File: figures/top_view-eps-converted-to.pdf Graphic file (type pdf)
 
-<use figures/Vn_Dia.jpg>
-Package pdftex.def Info: figures/Vn_Dia.jpg used on input line 111.
-(pdftex.def)             Requested size: 433.62pt x 243.55058pt.
+<use figures/top_view-eps-converted-to.pdf>
+Package pdftex.def Info: figures/top_view-eps-converted-to.pdf used on input li
+ne 88.
+(pdftex.def)             Requested size: 217.4502pt x 96.87401pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 88--91
 
-Package natbib Warning: Citation `1' on page 3 undefined on input line 150.
+ []
 
+Package epstopdf Info: Source file: <figures/3D.eps>
+(epstopdf)                    date: 2014-09-19 23:06:36
+(epstopdf)                    size: 77634 bytes
+(epstopdf)             Output file: <figures/3D-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-19 23:12:03
+(epstopdf)                    size: 18552 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/3D-eps-converted-t
+o.pdf figures/3D.eps>
+(epstopdf)             \includegraphics on input line 95.
+Package epstopdf Info: Output file is already uptodate.
+<figures/3D-eps-converted-to.pdf, id=67, 266.9975pt x 122.4575pt>
+File: figures/3D-eps-converted-to.pdf Graphic file (type pdf)
 
-Package natbib Warning: Citation `2' on page 3 undefined on input line 150.
+<use figures/3D-eps-converted-to.pdf>
+Package pdftex.def Info: figures/3D-eps-converted-to.pdf used on input line 95.
 
+(pdftex.def)             Requested size: 173.95749pt x 79.787pt.
 
-Package natbib Warning: Citation `3' on page 3 undefined on input line 150.
+Underfull \hbox (badness 10000) in paragraph at lines 95--98
 
+ []
 
-Package natbib Warning: Citation `4' on page 3 undefined on input line 150.
+Package epstopdf Info: Source file: <figures/V_n_diag.eps>
+(epstopdf)                    date: 2014-09-19 23:06:36
+(epstopdf)                    size: 578068 bytes
+(epstopdf)             Output file: <figures/V_n_diag-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-19 23:12:04
+(epstopdf)                    size: 59909 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/V_n_diag-eps-conve
+rted-to.pdf figures/V_n_diag.eps>
+(epstopdf)             \includegraphics on input line 111.
+Package epstopdf Info: Output file is already uptodate.
+<figures/V_n_diag-eps-converted-to.pdf, id=68, 624.3325pt x 411.5375pt>
+File: figures/V_n_diag-eps-converted-to.pdf Graphic file (type pdf)
 
-[3] [4] [5 <./figures/side.png> <./figures/front.png> <./figures/top.png> <./fi
-gures/3D.png>] [6 <./figures/Vn_Dia.jpg>]) [7
+<use figures/V_n_diag-eps-converted-to.pdf>
+Package pdftex.def Info: figures/V_n_diag-eps-converted-to.pdf used on input li
+ne 111.
+(pdftex.def)             Requested size: 433.62pt x 285.83249pt.
+Package epstopdf Info: Source file: <figures/V_n_gust.eps>
+(epstopdf)                    date: 2014-09-19 23:06:36
+(epstopdf)                    size: 338278 bytes
+(epstopdf)             Output file: <figures/V_n_gust-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-19 23:12:04
+(epstopdf)                    size: 46293 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/V_n_gust-eps-conve
+rted-to.pdf figures/V_n_gust.eps>
+(epstopdf)             \includegraphics on input line 122.
+Package epstopdf Info: Output file is already uptodate.
 
-] [8
+<figures/V_n_gust-eps-converted-to.pdf, id=69, 484.81125pt x 308.15125pt>
+File: figures/V_n_gust-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/V_n_gust-eps-converted-to.pdf>
+Package pdftex.def Info: figures/V_n_gust-eps-converted-to.pdf used on input li
+ne 122.
+(pdftex.def)             Requested size: 325.215pt x 206.71886pt.
+ [3 <./figures/side_view-eps-converted-to.pdf> <./figures/front_view-eps-conver
+ted-to.pdf> <./figures/top_view-eps-converted-to.pdf> <./figures/3D-eps-convert
+ed-to.pdf>] [4 <./figures/V_n_diag-eps-converted-to.pdf> <./figures/V_n_gust-ep
+s-converted-to.pdf>]) [5] [6
 
 
 ]
 No file groupX_report.bbl.
-[9
+[7
 
 
 ]
@@ -425,49 +489,31 @@ No file appendix.tex.
 Package natbib Warning: There were undefined citations.
 
 (./groupX_report.aux (./acknowledgement.aux) (./abstract.aux)
-(./abbreviations.aux) (./chapter1.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-) (./appendix.aux)
-
-! Package natbib Error: Bibliography not compatible with author-year citations.
-
-(natbib)                Press <return> to continue in numerical citation style.
-
-
-See the natbib package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 ...mand\NAT@force@numbers{}\NAT@force@numbers
-                                                  
-? 
-)
+(./abbreviations.aux) (./chapter1.aux) (./appendix.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3529 strings out of 495028
- 54014 string characters out of 6181498
- 114075 words of memory out of 5000000
- 6670 multiletter control sequences out of 15000+600000
+ 3516 strings out of 495028
+ 54388 string characters out of 6181498
+ 113075 words of memory out of 5000000
+ 6658 multiletter control sequences out of 15000+600000
  8243 words of font info for 29 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,9n,40p,263b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,9n,40p,276b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmti12.pfb>
-Output written on groupX_report.pdf (23 pages, 332733 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmti12.pfb>
+Output written on groupX_report.pdf (21 pages, 371442 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 132 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

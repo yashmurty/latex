@@ -152,13 +152,4 @@ Total&15400& \\
 \label{tab:bill_materials}
 \end{table}
 %
-\begin{thebibliography}{10}
-
-  \bibitem{1} Motor Specifications : http://rcbazaar.com/products/2442-avionic-c3536-kv1050-brushless-motor.aspx
-  \bibitem{2} Battery Specifications : http://www.muav.in/?wpsc-product=battery-lipo-gens-ace-3s-rechargeable-11-1v-25-c-2200-mah
-  \bibitem{3} ESC : http://www.muav.in/?wpsc-product=esc-rcforall-30-amps
-  \bibitem{4} Servo : http://www.muav.in/?wpsc-product=hs-55s
-  \bibitem{5} Airplane entries for the competition organized by SAE International
-
-\end{thebibliography}
 %

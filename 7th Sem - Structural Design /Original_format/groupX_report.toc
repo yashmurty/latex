@@ -6,12 +6,12 @@
 \contentsline {chapter}{\numberline {1}INTRODUCTION}{1}
 \contentsline {section}{\numberline {1.1}MISSION REQUIREMENTS}{1}
 \contentsline {section}{\numberline {1.2}CONFIGURATION CHOICE}{1}
-\contentsline {section}{\numberline {1.3}SUMMARY OF WORK DONE AS PART OF THE AERODYNAMIC DESIGN}{2}
+\contentsline {section}{\numberline {1.3}SUMMARY OF WORK DONE AS PART OF THE AERODYNAMIC DESIGN}{1}
 \contentsline {subsection}{\numberline {1.3.1}Data Obtained from Literature Survey}{2}
 \contentsline {subsection}{\numberline {1.3.2}First Weight Estimate}{2}
 \contentsline {subsection}{\numberline {1.3.3}Second Weight Estimate}{2}
-\contentsline {subsection}{\numberline {1.3.4}Views of the Designed Airplane}{3}
-\contentsline {subsection}{\numberline {1.3.5}V-n Diagram}{3}
-\contentsline {subsection}{\numberline {1.3.6}Some performance parameters}{3}
-\contentsline {section}{\numberline {1.4}Bill of Materials with suggested Vendors}{4}
-\contentsline {chapter}{APPENDIX}{9}
+\contentsline {subsection}{\numberline {1.3.4}Third Weight Estimate}{2}
+\contentsline {subsection}{\numberline {1.3.5}Views of the Designed Airplane}{3}
+\contentsline {subsection}{\numberline {1.3.6}V-n Diagram}{3}
+\contentsline {section}{\numberline {1.4}Bill of Materials with suggested Vendors}{5}
+\contentsline {chapter}{APPENDIX}{7}
