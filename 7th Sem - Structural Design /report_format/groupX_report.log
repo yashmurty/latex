@@ -1,0 +1,519 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.11)  20 SEP 2014 14:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**groupX_report.tex
+(./groupX_report.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(./iitm_course_report.cls
+Document Class: iitm_course_report 2005/03/09 Class for IIT-Madras Dissertation
+s
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen111
+\captionmargin@=\dimen112
+\captionwidth=\dimen113
+\caption@tempdima=\dimen114
+\caption@indent=\dimen115
+\caption@parindent=\dimen116
+\caption@hangindent=\dimen117
+)
+\c@ContinuedFloat=\count91
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen118
+\Gin@req@width=\dimen119
+))
+(./groupX_report.aux (./acknowledgement.aux) (./abstract.aux)
+(./abbreviations.aux) (./chapter1.aux) (./appendix.aux))
+\openout1 = `groupX_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(90.3375pt, 434.90039pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 724.3561pt, 48.42076pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=434.90039pt
+* \textheight=724.3561pt
+* \oddsidemargin=18.0675pt
+* \evensidemargin=0.0pt
+* \topmargin=0.0pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen120
+\scratchbox=\box26
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen121
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks17
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 19.
+
+Package epstopdf Info: Source file: <iitm.eps>
+(epstopdf)                    date: 2011-07-22 13:57:12
+(epstopdf)                    size: 627003 bytes
+(epstopdf)             Output file: <iitm-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-20 13:50:07
+(epstopdf)                    size: 107332 bytes
+(epstopdf)             Command: <repstopdf --outfile=iitm-eps-converted-to.pdf 
+iitm.eps>
+(epstopdf)             \includegraphics on input line 19.
+Package epstopdf Info: Output file is already uptodate.
+<iitm-eps-converted-to.pdf, id=1, 109.40875pt x 109.40875pt>
+File: iitm-eps-converted-to.pdf Graphic file (type pdf)
+
+<use iitm-eps-converted-to.pdf>
+Package pdftex.def Info: iitm-eps-converted-to.pdf used on input line 19.
+(pdftex.def)             Requested size: 109.40846pt x 109.40846pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./iitm-eps-converted-to.pd
+f>] [2
+
+]
+\openout2 = `acknowledgement.aux'.
+
+ (./acknowledgement.tex) [1
+
+
+] [2
+
+
+]
+\openout2 = `abstract.aux'.
+
+
+(./abstract.tex) [3
+
+
+] [4
+
+
+] (./groupX_report.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
+)
+\tf@toc=\write3
+\openout3 = `groupX_report.toc'.
+
+ [5
+
+] [6
+
+] (./groupX_report.lot)
+\tf@lot=\write4
+\openout4 = `groupX_report.lot'.
+
+
+[7
+
+] [8
+
+] (./groupX_report.lof)
+\tf@lof=\write5
+\openout5 = `groupX_report.lof'.
+
+ [9
+
+] [10
+
+]
+\openout2 = `abbreviations.aux'.
+
+ (./abbreviations.tex) [11
+
+
+] [12
+
+
+]
+\openout2 = `chapter1.aux'.
+
+
+(./chapter1.tex
+CHAPTER 1.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+
+Overfull \hbox (4.67105pt too wide) in paragraph at lines 20--20
+[]\OT1/cmr/bx/n/12 SUMMARY OF WORK DONE AS PART OF THE AERO-DY-NAMIC
+ []
+
+
+Overfull \hbox (37.7776pt too wide) in paragraph at lines 32--41
+ [] 
+ []
+
+[1
+
+
+]
+
+Package natbib Warning: Citation `Raymer_book' on page 2 undefined on input lin
+e 47.
+
+
+Package natbib Warning: Citation `Joel_paper' on page 2 undefined on input line
+ 48.
+
+
+Package natbib Warning: Citation `random_book' on page 2 undefined on input lin
+e 49.
+
+[2]
+Package epstopdf Info: Source file: <figures/side_view.eps>
+(epstopdf)                    date: 2014-08-22 16:05:22
+(epstopdf)                    size: 108131 bytes
+(epstopdf)             Output file: <figures/side_view-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-20 13:50:08
+(epstopdf)                    size: 18386 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/side_view-eps-conv
+erted-to.pdf figures/side_view.eps>
+(epstopdf)             \includegraphics on input line 73.
+Package epstopdf Info: Output file is already uptodate.
+ <figures/side_view-eps-converted-to.pdf, id=64, 327.2225pt x 141.52875pt>
+File: figures/side_view-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/side_view-eps-converted-to.pdf>
+Package pdftex.def Info: figures/side_view-eps-converted-to.pdf used on input l
+ine 73.
+(pdftex.def)             Requested size: 217.4502pt x 94.05064pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
+
+ []
+
+Package epstopdf Info: Source file: <figures/front_view.eps>
+(epstopdf)                    date: 2014-08-22 16:05:46
+(epstopdf)                    size: 95886 bytes
+(epstopdf)             Output file: <figures/front_view-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-20 13:50:09
+(epstopdf)                    size: 10597 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/front_view-eps-con
+verted-to.pdf figures/front_view.eps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+<figures/front_view-eps-converted-to.pdf, id=65, 263.98625pt x 155.58125pt>
+File: figures/front_view-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/front_view-eps-converted-to.pdf>
+Package pdftex.def Info: figures/front_view-eps-converted-to.pdf used on input 
+line 80.
+(pdftex.def)             Requested size: 173.95749pt x 102.52249pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
+
+ []
+
+Package epstopdf Info: Source file: <figures/top_view.eps>
+(epstopdf)                    date: 2014-08-22 16:05:32
+(epstopdf)                    size: 107567 bytes
+(epstopdf)             Output file: <figures/top_view-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-20 13:50:09
+(epstopdf)                    size: 14745 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/top_view-eps-conve
+rted-to.pdf figures/top_view.eps>
+(epstopdf)             \includegraphics on input line 88.
+Package epstopdf Info: Output file is already uptodate.
+<figures/top_view-eps-converted-to.pdf, id=66, 322.20375pt x 143.53625pt>
+File: figures/top_view-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/top_view-eps-converted-to.pdf>
+Package pdftex.def Info: figures/top_view-eps-converted-to.pdf used on input li
+ne 88.
+(pdftex.def)             Requested size: 217.4502pt x 96.87401pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--91
+
+ []
+
+Package epstopdf Info: Source file: <figures/3D.eps>
+(epstopdf)                    date: 2014-08-22 16:05:56
+(epstopdf)                    size: 77634 bytes
+(epstopdf)             Output file: <figures/3D-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-20 13:50:10
+(epstopdf)                    size: 18552 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/3D-eps-converted-t
+o.pdf figures/3D.eps>
+(epstopdf)             \includegraphics on input line 95.
+Package epstopdf Info: Output file is already uptodate.
+<figures/3D-eps-converted-to.pdf, id=67, 266.9975pt x 122.4575pt>
+File: figures/3D-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/3D-eps-converted-to.pdf>
+Package pdftex.def Info: figures/3D-eps-converted-to.pdf used on input line 95.
+
+(pdftex.def)             Requested size: 173.95749pt x 79.787pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--98
+
+ []
+
+Package epstopdf Info: Source file: <figures/V_n_diag.eps>
+(epstopdf)                    date: 2014-08-22 16:06:16
+(epstopdf)                    size: 578068 bytes
+(epstopdf)             Output file: <figures/V_n_diag-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-20 13:50:11
+(epstopdf)                    size: 59909 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/V_n_diag-eps-conve
+rted-to.pdf figures/V_n_diag.eps>
+(epstopdf)             \includegraphics on input line 111.
+Package epstopdf Info: Output file is already uptodate.
+<figures/V_n_diag-eps-converted-to.pdf, id=68, 624.3325pt x 411.5375pt>
+File: figures/V_n_diag-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/V_n_diag-eps-converted-to.pdf>
+Package pdftex.def Info: figures/V_n_diag-eps-converted-to.pdf used on input li
+ne 111.
+(pdftex.def)             Requested size: 433.62pt x 285.83249pt.
+Package epstopdf Info: Source file: <figures/V_n_gust.eps>
+(epstopdf)                    date: 2014-08-22 16:06:24
+(epstopdf)                    size: 338278 bytes
+(epstopdf)             Output file: <figures/V_n_gust-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-09-20 13:50:11
+(epstopdf)                    size: 46293 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/V_n_gust-eps-conve
+rted-to.pdf figures/V_n_gust.eps>
+(epstopdf)             \includegraphics on input line 122.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/V_n_gust-eps-converted-to.pdf, id=69, 484.81125pt x 308.15125pt>
+File: figures/V_n_gust-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/V_n_gust-eps-converted-to.pdf>
+Package pdftex.def Info: figures/V_n_gust-eps-converted-to.pdf used on input li
+ne 122.
+(pdftex.def)             Requested size: 325.215pt x 206.71886pt.
+ [3 <./figures/side_view-eps-converted-to.pdf> <./figures/front_view-eps-conver
+ted-to.pdf> <./figures/top_view-eps-converted-to.pdf> <./figures/3D-eps-convert
+ed-to.pdf>] [4 <./figures/V_n_diag-eps-converted-to.pdf> <./figures/V_n_gust-ep
+s-converted-to.pdf>]) [5] [6
+
+
+]
+No file groupX_report.bbl.
+[7
+
+
+]
+\openout2 = `appendix.aux'.
+
+
+No file appendix.tex.
+
+Package natbib Warning: There were undefined citations.
+
+(./groupX_report.aux (./acknowledgement.aux) (./abstract.aux)
+(./abbreviations.aux) (./chapter1.aux) (./appendix.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3516 strings out of 495028
+ 54388 string characters out of 6181497
+ 113075 words of memory out of 5000000
+ 6658 multiletter control sequences out of 15000+600000
+ 8243 words of font info for 29 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 43i,9n,40p,276b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmti12.pfb>
+Output written on groupX_report.pdf (21 pages, 371457 bytes).
+PDF statistics:
+ 132 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

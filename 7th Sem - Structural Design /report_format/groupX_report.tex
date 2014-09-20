@@ -1,0 +1,73 @@
+\documentclass{iitm_course_report}
+\usepackage{graphicx}
+\usepackage{natbib}
+%\usepackage{multicol}
+%\usepackage{multirow}
+%\usepackage{enumerate}
+%\usepackage{epstopdf}
+%\usepackage{rotating}
+%\usepackage{subeqnarray}
+\providecommand{\e}[1]{\ensuremath{\times 10^{#1}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+% Title page
+\title{\textsc{\MakeUppercase A Format for Report to be Submitted as Part of Structural Design Course}}
+\author{Group X}
+\date{XX AUGUST 2014}
+\department{AEROSPACE ENGINEERING}
+\coursename{AS 5220: STRUCTURAL DESIGN}
+\maketitle
+\cleardoublepage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Table of contents, List of figures, tables etc.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%\pagenumbering
+%\footskip=0.2in
+\include{acknowledgement}
+\cleardoublepage
+%\include{publications}
+\include{abstract}
+\cleardoublepage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Table of contents, List of figures, tables etc.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{singlespace}
+\tableofcontents
+\thispagestyle{empty}
+\cleardoublepage
+\listoftables
+\addcontentsline{toc}{chapter}{LIST OF TABLES}
+\cleardoublepage
+\listoffigures
+\addcontentsline{toc}{chapter}{LIST OF FIGURES}
+\end{singlespace}
+\cleardoublepage
+\include{abbreviations}
+\cleardoublepage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagenumbering{arabic}
+\footskip=0.2in
+\include{chapter1}
+\cleardoublepage
+%\include{chapter2}
+%\cleardoublepage
+%\include{chapter3}
+%\cleardoublepage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{singlespace}
+\bibliography{refs}
+\bibliographystyle{iitm}
+\end{singlespace}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \renewcommand{\theequation}{A-\arabic{equation}}
+  \renewcommand{\thesection}{A.\arabic{section}}
+  \renewcommand{\thetable}{A.\arabic{table}}
+  \renewcommand{\thefigure}{A.\arabic{figure}}
+  % redefine the command that creates the equation no.
+  \setcounter{equation}{0}  % reset counter
+\cleardoublepage
+\appendix
+\include{appendix}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
