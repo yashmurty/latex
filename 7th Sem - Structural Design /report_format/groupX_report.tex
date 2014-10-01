@@ -1,6 +1,7 @@
 \documentclass{iitm_course_report}
 \usepackage{graphicx}
 \usepackage{natbib}
+\usepackage{float} % This is cool
 %\usepackage{multicol}
 %\usepackage{multirow}
 %\usepackage{enumerate}
@@ -11,9 +12,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 % Title page
-\title{\textsc{\MakeUppercase Structural Design Course}}
+\title{\textsc{\MakeUppercase Structural Design Technical Report}}
 \author{X Group}
-\date{19 September 2014}
+\date{19 SEPTEMBER 2014}
 \department{AEROSPACE ENGINEERING}
 \coursename{AS 5220: STRUCTURAL DESIGN}
 \maketitle
@@ -50,8 +51,8 @@
 \footskip=0.2in
 \include{chapter1}
 \cleardoublepage
-%\include{chapter2}
-%\cleardoublepage
+\include{chapter2}
+\cleardoublepage
 %\include{chapter3}
 %\cleardoublepage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -59,6 +60,16 @@
 \bibliography{refs}
 \bibliographystyle{iitm}
 \end{singlespace}
+% I'm gen adding references here directly for now.
+\begin{thebibliography}{10}
+
+  \bibitem{1} Motor Specifications : http://rcbazaar.com/products/2442-avionic-c3536-kv1050-brushless-motor.aspx
+  \bibitem{2} Battery Specifications : http://www.muav.in/?wpsc-product=battery-lipo-gens-ace-3s-rechargeable-11-1v-25-c-2200-mah
+  \bibitem{3} ESC : http://www.muav.in/?wpsc-product=esc-rcforall-30-amps
+  \bibitem{4} Servo : http://www.muav.in/?wpsc-product=hs-55s
+  \bibitem{5} Airplane entries for the competition organized by SAE International
+
+\end{thebibliography}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \renewcommand{\theequation}{A-\arabic{equation}}
   \renewcommand{\thesection}{A.\arabic{section}}
@@ -66,8 +77,8 @@
   \renewcommand{\thefigure}{A.\arabic{figure}}
   % redefine the command that creates the equation no.
   \setcounter{equation}{0}  % reset counter
-\cleardoublepage
-\appendix
-\include{appendix}
+%\cleardoublepage
+%\appendix
+%\include{appendix}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{document}

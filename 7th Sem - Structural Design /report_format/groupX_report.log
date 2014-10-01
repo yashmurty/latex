@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.9)  20 SEP 2014 00:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.9)  20 SEP 2014 19:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -112,22 +112,44 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen118
 \Gin@req@width=\dimen119
 ))
-(./groupX_report.aux (./acknowledgement.aux) (./abstract.aux)
-(./abbreviations.aux) (./chapter1.aux) (./appendix.aux))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count94
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+) (./groupX_report.aux
+(./acknowledgement.aux) (./abstract.aux) (./abbreviations.aux) (./chapter1.aux)
+(./chapter2.aux)
+
+! Package natbib Error: Bibliography not compatible with author-year citations.
+
+(natbib)                Press <return> to continue in numerical citation style.
+
+
+See the natbib package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...mand\NAT@force@numbers{}\NAT@force@numbers
+                                                  
+? 
+)
 \openout1 = `groupX_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -164,20 +186,21 @@ LaTeX Font Info:    ... okay on input line 12.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count94
+\scratchcounter=\count95
 \scratchdimen=\dimen120
-\scratchbox=\box26
-\nofMPsegments=\count95
-\nofMParguments=\count96
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count97
+\scratchbox=\box28
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count98
 \MPscratchDim=\dimen121
-\MPnumerator=\count98
-\makeMPintoPDFobject=\count99
-\everyMPtoPDFconversion=\toks17
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks19
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -224,7 +247,7 @@ e
 ))
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 19.
+(Font)              using `OT1/cmr/bx/n' instead on input line 20.
 
 Package epstopdf Info: Source file: <iitm.eps>
 (epstopdf)                    date: 2014-09-19 23:06:36
@@ -234,13 +257,13 @@ Package epstopdf Info: Source file: <iitm.eps>
 (epstopdf)                    size: 107332 bytes
 (epstopdf)             Command: <repstopdf --outfile=iitm-eps-converted-to.pdf 
 iitm.eps>
-(epstopdf)             \includegraphics on input line 19.
+(epstopdf)             \includegraphics on input line 20.
 Package epstopdf Info: Output file is already uptodate.
 <iitm-eps-converted-to.pdf, id=1, 109.40875pt x 109.40875pt>
 File: iitm-eps-converted-to.pdf Graphic file (type pdf)
 
 <use iitm-eps-converted-to.pdf>
-Package pdftex.def Info: iitm-eps-converted-to.pdf used on input line 19.
+Package pdftex.def Info: iitm-eps-converted-to.pdf used on input line 20.
 (pdftex.def)             Requested size: 109.40846pt x 109.40846pt.
  [1
 
@@ -334,140 +357,158 @@ Overfull \hbox (4.67105pt too wide) in paragraph at lines 36--36
 []\OT1/cmr/bx/n/12 SUMMARY OF WORK DONE AS PART OF THE AERO-DY-NAMIC
  []
 
-
-Overfull \hbox (37.7776pt too wide) in paragraph at lines 46--55
- [] 
- []
-
-
-Package natbib Warning: Citation `1' on page 2 undefined on input line 64.
-
-[2]
-
-Package natbib Warning: Citation `2' on page 3 undefined on input line 65.
-
-<figures/side.png, id=64, 458.71375pt x 301.125pt>
+[2] <figures/side.png, id=63, 458.71375pt x 301.125pt>
 File: figures/side.png Graphic file (type png)
  <use figures/side.png>
-Package pdftex.def Info: figures/side.png used on input line 75.
+Package pdftex.def Info: figures/side.png used on input line 80.
 (pdftex.def)             Requested size: 217.4502pt x 142.74638pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--78
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
 
  []
 
-<figures/front.png, id=65, 499.8675pt x 203.76125pt>
+<figures/front.png, id=64, 499.8675pt x 203.76125pt>
 File: figures/front.png Graphic file (type png)
  <use figures/front.png>
-Package pdftex.def Info: figures/front.png used on input line 82.
+Package pdftex.def Info: figures/front.png used on input line 87.
 (pdftex.def)             Requested size: 173.95749pt x 70.9102pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--85
+Underfull \hbox (badness 10000) in paragraph at lines 87--90
 
  []
 
-<figures/top.png, id=66, 478.78876pt x 491.8375pt>
+<figures/top.png, id=65, 478.78876pt x 491.8375pt>
 File: figures/top.png Graphic file (type png)
  <use figures/top.png>
-Package pdftex.def Info: figures/top.png used on input line 90.
+Package pdftex.def Info: figures/top.png used on input line 95.
 (pdftex.def)             Requested size: 260.94289pt x 268.05737pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--93
+Underfull \hbox (badness 10000) in paragraph at lines 95--98
 
  []
 
-<figures/3D.png, id=67, 421.575pt x 307.1475pt>
+<figures/3D.png, id=66, 421.575pt x 307.1475pt>
 File: figures/3D.png Graphic file (type png)
  <use figures/3D.png>
-Package pdftex.def Info: figures/3D.png used on input line 97.
+Package pdftex.def Info: figures/3D.png used on input line 102.
 (pdftex.def)             Requested size: 173.95749pt x 126.74208pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--100
+Underfull \hbox (badness 10000) in paragraph at lines 102--105
 
  []
 
-<figures/Vn_Dia.jpg, id=68, 616.55344pt x 346.29375pt>
+[3] <figures/Vn_Dia.jpg, id=70, 616.55344pt x 346.29375pt>
 File: figures/Vn_Dia.jpg Graphic file (type jpg)
 
 <use figures/Vn_Dia.jpg>
-Package pdftex.def Info: figures/Vn_Dia.jpg used on input line 111.
+Package pdftex.def Info: figures/Vn_Dia.jpg used on input line 116.
 (pdftex.def)             Requested size: 433.62pt x 243.55058pt.
+ [4 <./figures/side.png> <./figures/front.png> <./figures/top.png> <./figures/3
+D.png>] [5 <./figures/Vn_Dia.jpg>]) [6]
+\openout2 = `chapter2.aux'.
+
+ (./chapter2.tex
+CHAPTER 2.
+[7
 
 
-Package natbib Warning: Citation `1' on page 3 undefined on input line 150.
 
 
-Package natbib Warning: Citation `2' on page 3 undefined on input line 150.
+] <figures/qy.jpg, id=88, 561.09625pt x 420.57124pt>
+File: figures/qy.jpg Graphic file (type jpg)
+ <use figures/qy.jpg>
+Package pdftex.def Info: figures/qy.jpg used on input line 41.
+(pdftex.def)             Requested size: 368.57744pt x 276.26874pt.
 
+<figures/bmd.jpg, id=89, 562.1pt x 420.57124pt>
+File: figures/bmd.jpg Graphic file (type jpg)
+ <use figures/bmd.jpg>
+Package pdftex.def Info: figures/bmd.jpg used on input line 49.
+(pdftex.def)             Requested size: 368.57744pt x 275.7746pt.
 
-Package natbib Warning: Citation `3' on page 3 undefined on input line 150.
+<figures/liftdistr.jpg, id=90, 562.1pt x 420.57124pt>
+File: figures/liftdistr.jpg Graphic file (type jpg)
 
+<use figures/liftdistr.jpg>
+Package pdftex.def Info: figures/liftdistr.jpg used on input line 56.
+(pdftex.def)             Requested size: 368.57744pt x 275.7746pt.
+ [8 <./figures/qy.jpg>] [9 <./figures/bmd.jpg> <./figures/liftdistr.jpg>] <figu
+res/spar.png, id=98, 670.505pt x 215.80624pt>
+File: figures/spar.png Graphic file (type png)
 
-Package natbib Warning: Citation `4' on page 3 undefined on input line 150.
+<use figures/spar.png>
+Package pdftex.def Info: figures/spar.png used on input line 68.
+(pdftex.def)             Requested size: 375.80377pt x 120.95274pt.
+ <figures/sfdrev.jpg, id=99, 562.1pt x 420.57124pt>
+File: figures/sfdrev.jpg Graphic file (type jpg)
 
-[3] [4] [5 <./figures/side.png> <./figures/front.png> <./figures/top.png> <./fi
-gures/3D.png>] [6 <./figures/Vn_Dia.jpg>]) [7
+<use figures/sfdrev.jpg>
+Package pdftex.def Info: figures/sfdrev.jpg used on input line 89.
+(pdftex.def)             Requested size: 368.57744pt x 275.7746pt.
+ [10 <./figures/spar.png>]
+<figures/bmdrev.jpg, id=103, 562.1pt x 420.57124pt>
+File: figures/bmdrev.jpg Graphic file (type jpg)
+ <use figures/bmdrev.jpg>
+Package pdftex.def Info: figures/bmdrev.jpg used on input line 96.
+(pdftex.def)             Requested size: 368.57744pt x 275.7746pt.
 
-] [8
+[11 <./figures/sfdrev.jpg>]
+<figures/airfoil_stress.png, id=108, 259.7203pt x 155.07938pt>
+File: figures/airfoil_stress.png Graphic file (type png)
 
+<use figures/airfoil_stress.png>
+Package pdftex.def Info: figures/airfoil_stress.png used on input line 109.
+(pdftex.def)             Requested size: 375.80377pt x 224.39314pt.
 
-]
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
+
+ []
+
+[12 <./figures/bmdrev.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+ []
+
+) [13 <./figures/airfoil_stress.png>] [14]
 No file groupX_report.bbl.
-[9
+
+Underfull \hbox (badness 6808) in paragraph at lines 66--67
+[]\OT1/cmr/m/n/12 Motor Spec-i-fi-ca-tions : http://rcbazaar.com/products/2442-
+avionic-c3536-
+ []
+
+[15
 
 
-]
-\openout2 = `appendix.aux'.
 
-
-No file appendix.tex.
-
-Package natbib Warning: There were undefined citations.
-
-(./groupX_report.aux (./acknowledgement.aux) (./abstract.aux)
-(./abbreviations.aux) (./chapter1.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-) (./appendix.aux)
-
-! Package natbib Error: Bibliography not compatible with author-year citations.
-
-(natbib)                Press <return> to continue in numerical citation style.
-
-
-See the natbib package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 ...mand\NAT@force@numbers{}\NAT@force@numbers
-                                                  
-? 
-)
+] (./groupX_report.aux (./acknowledgement.aux) (./abstract.aux)
+(./abbreviations.aux) (./chapter1.aux) (./chapter2.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3529 strings out of 495028
- 54014 string characters out of 6181498
- 114075 words of memory out of 5000000
- 6670 multiletter control sequences out of 15000+600000
+ 3627 strings out of 495028
+ 55542 string characters out of 6181498
+ 113857 words of memory out of 5000000
+ 6754 multiletter control sequences out of 15000+600000
  8243 words of font info for 29 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,9n,40p,263b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,10n,42p,292b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmti12.pfb>
-Output written on groupX_report.pdf (23 pages, 332733 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmti12.pfb>
+Output written on groupX_report.pdf (29 pages, 455528 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 154 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

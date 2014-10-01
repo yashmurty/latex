@@ -1,6 +1,6 @@
 \chapter{INTRODUCTION}
 \label{ch1}
-This introduction chapter summarizes the main aerodynamic features of our airplane and
+This introduction chapter summarizes the main aerodynamic features of the airplane and
 the cost estimate to construct it.
 
 \section{MISSION REQUIREMENTS}
@@ -10,7 +10,7 @@ a payload much greater than its structural weight. The mission profile includes
 take-off, a 360 degree turn and landing on the same airplance strip as Fig 1
 shows.
 
-\begin{figure}
+\begin{figure}[H]
     \begin{center}
       \includegraphics[width=4.5in]{figures/missionreq.jpg}
      \caption{Mission Profile}
@@ -28,7 +28,7 @@ Also, most of the similar airplanes have a high wing configuration.
 \item Airfoil was chosen to be S1223 because of its high lift characterestics, deep
 camber and thin wing. It is also highly suitable for low speed flights
 \item No wing sweep or taper was chosen due to ease of construction and the
-fact that our airplane wing operates only in the low speed regime
+fact that the airplane wing operates only in the low speed regime
 \item A conventional tail was chosen as it provides adequate stability and control
 and is easier to construct than other complex tail configurations
 \end{itemize}
@@ -40,17 +40,22 @@ Brief description accompanied by data/weight estimates and diagrams.
 \subsection{Data Obtained from Literature Survey}
 Table \ref{tab:lit_survey} gives the details of existing aircrafts of similar configurations for which data were accessible.
 %
-\begin{table}
+\begin{table}[H]
 \begin{center}
-\caption{Details of the aircrafts available in literature.}
-   \begin{tabular}{|l|c|c|c|r|r|r|}
-   \hline
-Brief description & Overall & Wing & Aspect &\multicolumn{3}{c|}{Weight fractions}  \\ \cline{5-7}
- & Weight (kg) & Span (m) & Ratio & Pay load & Power plant & Structural \\ \hline
- X1 & $a_1$ & $b_1$ & $c_1$ & $d_1$ & $e_1$ & $f_1$  \\ \hline
- X2 & $a_2$ & $b_2$ & $c_2$ & $d_2$ & $e_2$ & $f_2$  \\ \hline
- X3 & $a_3$ & $b_3$ & $c_3$ & $d_3$ & $e_3$ & $f_3$  \\ \hline
-   \end{tabular}
+\makebox[\textwidth]{
+ \begin{tabular}{|c|c|c|c|c|}
+ \hline
+Parameters & Worchester & Worchester & Cincinnati & SAE MicroClass \\
+ & I & Polytec. II & University & Entry\\
+\hline
+Gross Weight(kg) & 0.316 & 1.915 & 1.95 & 1.732\\
+Payload Weight(kg) & 0.163 & 1.530 & 1.632 & 1.284 \\
+Empty Weight(kg) & 0.153 & 0.384 & 0.316 & 0.448\\
+Powerplant Weight(kg) & 85.4 & 0.185 & 0.3 & 0.368\\
+Airfoil & S1223 & S1223 & S1223 & S1223\\
+\hline
+\end{tabular}}
+\caption{Data of similar airplanes\cite{5}}
 \label{tab:lit_survey}
 \end{center}
 \end{table}
@@ -152,13 +157,6 @@ Total&15400& \\
 \label{tab:bill_materials}
 \end{table}
 %
-\begin{thebibliography}{10}
 
-  \bibitem{1} Motor Specifications : http://rcbazaar.com/products/2442-avionic-c3536-kv1050-brushless-motor.aspx
-  \bibitem{2} Battery Specifications : http://www.muav.in/?wpsc-product=battery-lipo-gens-ace-3s-rechargeable-11-1v-25-c-2200-mah
-  \bibitem{3} ESC : http://www.muav.in/?wpsc-product=esc-rcforall-30-amps
-  \bibitem{4} Servo : http://www.muav.in/?wpsc-product=hs-55s
-  \bibitem{5} Airplane entries for the competition organized by SAE International
-
-\end{thebibliography}
+% Shifted Biblography from here to the latest report.
 %

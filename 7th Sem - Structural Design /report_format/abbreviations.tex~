@@ -6,7 +6,7 @@ xxxxxxxxxxx \= xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx \kill
 \textbf{$3D$} \indent \> \indent Three dimensional  \\
 \textbf{$\alpha$} \indent \> \indent angle of attack  \\
 \textbf{$b$} \indent \> \indent wing span \\
-\textbf{$c$} \indent \> \indent chord length of the wing \\
+\textbf{$c$} \indent \> \indent chord length of the wing
 \textbf{$S$} \indent \> \indent area of the wing \\
 \textbf{$q$} \indent \> \indent lift per unit span of the wing \\
 \textbf{$\sigma$} \indent \> \indent Shear stress 
