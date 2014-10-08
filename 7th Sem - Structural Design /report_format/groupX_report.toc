@@ -20,3 +20,8 @@
 \contentsline {subsection}{\numberline {2.2.1}Spar under bending stress}{10}
 \contentsline {subsection}{\numberline {2.2.2}Spar under shear stresses}{11}
 \contentsline {subsection}{\numberline {2.2.3}Spar under buckling stresses - web}{13}
+\contentsline {chapter}{\numberline {3}FUSELAGE DESIGN}{15}
+\contentsline {section}{\numberline {3.1}FUSELAGE DESIGN}{15}
+\contentsline {subsection}{\numberline {3.1.1}Truss Structure}{15}
+\contentsline {subsection}{\numberline {3.1.2}Superior Alternative to Trusses}{16}
+\contentsline {section}{\numberline {3.2}FABRICATION STATUS}{16}

@@ -14,7 +14,7 @@
 % Title page
 \title{\textsc{\MakeUppercase Structural Design Technical Report}}
 \author{X Group}
-\date{19 SEPTEMBER 2014}
+\date{8\textsuperscript{th} OCTOBER 2014}
 \department{AEROSPACE ENGINEERING}
 \coursename{AS 5220: STRUCTURAL DESIGN}
 \maketitle
@@ -53,6 +53,8 @@
 \cleardoublepage
 \include{chapter2}
 \cleardoublepage
+\include{chapter3}
+\cleardoublepage
 %\include{chapter3}
 %\cleardoublepage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -60,6 +62,7 @@
 \bibliography{refs}
 \bibliographystyle{iitm}
 \end{singlespace}
+% I'm gen adding references here directly for now.
 \begin{thebibliography}{10}
 
   \bibitem{1} Motor Specifications : http://rcbazaar.com/products/2442-avionic-c3536-kv1050-brushless-motor.aspx
