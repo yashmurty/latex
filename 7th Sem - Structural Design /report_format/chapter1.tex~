@@ -1,6 +1,6 @@
 \chapter{INTRODUCTION}
 \label{ch1}
-This introduction chapter summarizes the main aerodynamic features of our airplane and
+This introduction chapter summarizes the main aerodynamic features of the airplane and
 the cost estimate to construct it.
 
 \section{MISSION REQUIREMENTS}
@@ -28,7 +28,7 @@ Also, most of the similar airplanes have a high wing configuration.
 \item Airfoil was chosen to be S1223 because of its high lift characterestics, deep
 camber and thin wing. It is also highly suitable for low speed flights
 \item No wing sweep or taper was chosen due to ease of construction and the
-fact that our airplane wing operates only in the low speed regime
+fact that the airplane wing operates only in the low speed regime
 \item A conventional tail was chosen as it provides adequate stability and control
 and is easier to construct than other complex tail configurations
 \end{itemize}
