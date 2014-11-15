@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.9)  9 OCT 2014 00:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.9)  15 NOV 2014 22:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -121,11 +121,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box27
 ) (./groupX_report.aux
 (./acknowledgement.aux) (./abstract.aux) (./abbreviations.aux) (./chapter1.aux)
-(./chapter2.aux) (./chapter3.aux
-
-LaTeX Warning: Label `ch2' multiply defined.
-
-)
+(./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./chapter5.aux)
+(./chapter6.aux)
 
 ! Package natbib Error: Bibliography not compatible with author-year citations.
 
@@ -136,7 +133,7 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 ...mand\NAT@force@numbers{}\NAT@force@numbers
+l.22 ...mand\NAT@force@numbers{}\NAT@force@numbers
                                                   
 ? 
 )
@@ -487,34 +484,79 @@ CHAPTER 3.
 
 
 ]) [16]
-No file groupX_report.bbl.
+\openout2 = `chapter4.aux'.
 
-Underfull \hbox (badness 6808) in paragraph at lines 68--69
-[]\OT1/cmr/m/n/12 Motor Spec-i-fi-ca-tions : http://rcbazaar.com/products/2442-
-avionic-c3536-
- []
-
+ (./chapter4.tex
+CHAPTER 4.
 [17
 
 
 
+
+] <figures/ch4_fab.jpg, id=129, 1551.7975pt x 2967.085pt>
+File: figures/ch4_fab.jpg Graphic file (type jpg)
+
+<use figures/ch4_fab.jpg>
+Package pdftex.def Info: figures/ch4_fab.jpg used on input line 52.
+(pdftex.def)             Requested size: 368.57744pt x 704.7353pt.
+ [18]
+Overfull \vbox (17.8792pt too high) has occurred while \output is active []
+
+
+[19 <./figures/ch4_fab.jpg>]) [20
+
+
+]
+\openout2 = `chapter5.aux'.
+
+ (./chapter5.tex
+CHAPTER 5.
+[21
+
+
+]) [22]
+\openout2 = `chapter6.aux'.
+
+ (./chapter6.tex
+CHAPTER 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--12
+
+ []
+
+) [23
+
+
+
+
+] [24
+
+
+]
+No file groupX_report.bbl.
+
+Underfull \hbox (badness 6808) in paragraph at lines 74--75
+[]\OT1/cmr/m/n/12 Motor Spec-i-fi-ca-tions : http://rcbazaar.com/products/2442-
+avionic-c3536-
+ []
+
+[25
+
 ] (./groupX_report.aux (./acknowledgement.aux) (./abstract.aux)
-(./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux))
+(./abbreviations.aux) (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
+(./chapter4.aux) (./chapter5.aux) (./chapter6.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 3645 strings out of 495028
- 55809 string characters out of 6181498
- 114232 words of memory out of 5000000
- 6764 multiletter control sequences out of 15000+600000
+ 3683 strings out of 495028
+ 56315 string characters out of 6181498
+ 115189 words of memory out of 5000000
+ 6780 multiletter control sequences out of 15000+600000
  9464 words of font info for 33 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,10n,42p,651b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,10n,42p,747b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
@@ -526,10 +568,10 @@ public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ti12.pfb>
-Output written on groupX_report.pdf (31 pages, 467248 bytes).
+Output written on groupX_report.pdf (39 pages, 3045322 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
+ 194 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

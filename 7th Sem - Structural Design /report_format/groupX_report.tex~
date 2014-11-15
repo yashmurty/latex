@@ -14,7 +14,7 @@
 % Title page
 \title{\textsc{\MakeUppercase Structural Design Technical Report}}
 \author{X Group}
-\date{8\textsuperscript{th} OCTOBER 2014}
+\date{8\textsuperscript{TH} OCTOBER 2014}
 \department{AEROSPACE ENGINEERING}
 \coursename{AS 5220: STRUCTURAL DESIGN}
 \maketitle
@@ -54,6 +54,8 @@
 \include{chapter2}
 \cleardoublepage
 \include{chapter3}
+\cleardoublepage
+\include{chapter4}
 \cleardoublepage
 %\include{chapter3}
 %\cleardoublepage

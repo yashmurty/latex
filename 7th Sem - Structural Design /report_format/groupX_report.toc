@@ -25,3 +25,16 @@
 \contentsline {subsection}{\numberline {3.1.1}Truss Structure}{15}
 \contentsline {subsection}{\numberline {3.1.2}Superior Alternative to Trusses}{16}
 \contentsline {section}{\numberline {3.2}FABRICATION STATUS}{16}
+\contentsline {chapter}{\numberline {4}COMPLETE FABRICATION}{17}
+\contentsline {section}{\numberline {4.1}WING}{17}
+\contentsline {section}{\numberline {4.2}FUSELAGE}{17}
+\contentsline {section}{\numberline {4.3}HORIZONTAL TAIL}{18}
+\contentsline {section}{\numberline {4.4}VERTICAL TAIL}{18}
+\contentsline {chapter}{\numberline {5}ASSEMBLY}{21}
+\contentsline {section}{\numberline {5.1}Wing and fuselage}{21}
+\contentsline {section}{\numberline {5.2}Tails and fusleage}{21}
+\contentsline {section}{\numberline {5.3}Motor and fuselage}{21}
+\contentsline {section}{\numberline {5.4}Servos}{21}
+\contentsline {section}{\numberline {5.5}Skin}{22}
+\contentsline {chapter}{\numberline {6}Flight Testing and challenges}{23}
+\contentsline {section}{\numberline {6.1}Testing}{23}

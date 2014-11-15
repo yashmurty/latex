@@ -18,7 +18,7 @@ The lightest way to build a fuselage (which also gives the best strength to weig
 A truss is a structure that `consists of two-force members only, where the members are organized so that the assemblage as a whole behaves as a single object'. Although this rigorous definition allows the members to have any shape connected in any stable configuration, trusses typically comprise five or more triangular units constructed with straight members whose ends are connected at joints referred to as nodes. In this typical context, external forces and reactions to those forces are considered to act only at the nodes and result in forces in the members which are either tensile or compressive forces.
 
 \subsection{Superior Alternative to Trusses}
-But in this current RC airplane we are using aluminium rods as the primary load bearing component which pass through the fuselage. They take all the loads and bending moments from the wings. 
+A better alternative to the trusses taking the load is to use aluminium rods as the primary load bearing component. The aluminium rods pass through the fuselage. They take all the loads and bending moments from the wings. 
 \\
 The truss model of the fuselage is present for visual requirements alone so that the RC airplane looks like a conventional scaled down aircraft. 
 \\
